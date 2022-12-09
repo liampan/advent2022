@@ -1,5 +1,7 @@
-# advent2022
+# Advent of Code 2022
 
-Advetn of code 2022 attempts, in Kotlin.
+Advent of code 2022 attempts, in **Kotlin**.
 
 https://adventofcode.com/2022
+
+
