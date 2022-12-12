@@ -3,7 +3,7 @@ import java.io.File
 
 fun main(args: Array<String>) {
 
-    val lines = File("src/main/resources/day2.txt").readLines()
+    val lines = File("src/main/resources/day02.txt").readLines()
 
     // (they play, I play)
     val games = lines.map {

@@ -2,7 +2,7 @@ import java.io.File
 
 fun main(args: Array<String>) {
 
-    val lines = File("src/main/resources/day1.txt").readLines()
+    val lines = File("src/main/resources/day01.txt").readLines()
 
     fun getElves(lines: List<String>, acc: List<List<String>> = listOf()): List<List<String>> {
         val firstNewLineIndex = lines.indexOfFirst { it.isEmpty() }

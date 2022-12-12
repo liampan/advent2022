@@ -2,7 +2,7 @@ import java.io.File
 
 fun main(args: Array<String>) {
 
-    val lines = File("src/main/resources/day3.txt").readLines()
+    val lines = File("src/main/resources/day03.txt").readLines()
     val asciiOffsetLower = 96
     val asciiOffsetUpper = 38
 
